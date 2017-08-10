@@ -7,12 +7,12 @@ C:\Users\steven.admin\Desktop\Projects\capState\capState\obj\x86\Debug\capState.
 C:\Users\steven.admin\Desktop\Projects\capState\capState\obj\x86\Debug\capState.pdb
 C:\Users\steven.admin\Desktop\Projects\capState\capState\obj\x86\Debug\capState.csprojResolveAssemblyReference.cache
 C:\Users\steven.admin\Desktop\Projects\capState\capState\bin\Debug\Gma.System.MouseKeyHook.dll
-C:\Users\Steven\Desktop\Project Files\Published Projects\D-Capstate\capState\obj\x86\Debug\capState.exe
-C:\Users\Steven\Desktop\Project Files\Published Projects\D-Capstate\capState\obj\x86\Debug\capState.pdb
-C:\Users\Steven\Desktop\Project Files\Published Projects\D-Capstate\capState\bin\Debug\capState.exe
-C:\Users\Steven\Desktop\Project Files\Published Projects\D-Capstate\capState\bin\Debug\capState.pdb
-C:\Users\Steven\Desktop\Project Files\Published Projects\D-Capstate\capState\bin\Debug\Gma.System.MouseKeyHook.dll
-C:\Users\Steven\Desktop\Project Files\Published Projects\D-Capstate\capState\obj\x86\Debug\capState.csprojResolveAssemblyReference.cache
-C:\Users\Steven\Desktop\Project Files\Published Projects\D-Capstate\capState\obj\x86\Debug\capState.Form1.resources
-C:\Users\Steven\Desktop\Project Files\Published Projects\D-Capstate\capState\obj\x86\Debug\capState.Properties.Resources.resources
-C:\Users\Steven\Desktop\Project Files\Published Projects\D-Capstate\capState\obj\x86\Debug\capState.csproj.GenerateResource.Cache
+E:\Capstate\capState\obj\x86\Debug\capState.exe
+E:\Capstate\capState\obj\x86\Debug\capState.pdb
+E:\Capstate\capState\bin\Debug\capState.exe
+E:\Capstate\capState\bin\Debug\capState.pdb
+E:\Capstate\capState\bin\Debug\Gma.System.MouseKeyHook.dll
+E:\Capstate\capState\obj\x86\Debug\capState.csprojResolveAssemblyReference.cache
+E:\Capstate\capState\obj\x86\Debug\capState.Form1.resources
+E:\Capstate\capState\obj\x86\Debug\capState.Properties.Resources.resources
+E:\Capstate\capState\obj\x86\Debug\capState.csproj.GenerateResource.Cache

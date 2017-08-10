@@ -89,6 +89,7 @@ namespace capState
 
         private void Form1_Load(object sender, EventArgs e)
         {
+            this.Opacity = .9;
             this.TopMost = true;
             this.TransparencyKey = Color.Turquoise;
             this.BackColor = Color.Turquoise;
@@ -110,7 +111,7 @@ namespace capState
             if (StartingC != capOn())
             {
                 if (capOn()) { button1.BackColor = Color.Green; }
-                else { button1.BackColor = Color.Transparent; }
+                else { button1.BackColor = Color.Gray; }
                 StartingC = capOn();
                 this.Show();
                 StartCloseTimer();
@@ -119,7 +120,7 @@ namespace capState
             if (StartingN != numOn())
             {
                 if (numOn()) { button2.BackColor = Color.Green; }
-                else { button2.BackColor = Color.Transparent; }
+                else { button2.BackColor = Color.Gray; }
                 StartingN = numOn();
                 this.Show();
                 StartCloseTimer();
